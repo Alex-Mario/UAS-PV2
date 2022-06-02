@@ -1,0 +1,10 @@
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS PV2.csprojResolveAssemblyReference.cache
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS_PV2.MainForm.resources
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS PV2.csproj.GenerateResource.Cache
+E:\Data Sharp Develop\UAS PV2\UAS PV2\bin\Debug\UAS PV2.exe
+E:\Data Sharp Develop\UAS PV2\UAS PV2\bin\Debug\UAS PV2.pdb
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS_PV2.Form1.resources
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS PV2.exe
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS PV2.pdb
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS_PV2.loading.resources
+E:\Data Sharp Develop\UAS PV2\UAS PV2\obj\Debug\UAS_PV2.login.resources
